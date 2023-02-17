@@ -48,8 +48,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 ## Usage
 
  
-![screenshot 1](/public/assets/Images/11-express-homework-demo-01.png)
-![screenshot 2](/public/assets/Images/11-express-homework-demo-02.png)
+![screenshot 1](/public/assets/Images/11-express-homework-demo-01.png "demo 1")
  
 
 ## Credits
