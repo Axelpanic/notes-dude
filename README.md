@@ -45,8 +45,11 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
-## Usage
+## To Use
 
+https://note-dude.herokuapp.com/ - Heroku deployment
+https://github.com/Axelpanic/notes-dude/ - github repo
+https://axelpanic.github.io/notes-dude/ - github pages deployment 
  
 ![screenshot 1](/public/assets/Images/11-express-homework-demo-01.png "demo 1")
  
