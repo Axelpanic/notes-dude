@@ -48,8 +48,8 @@ What are the steps required to install your project? Provide a step-by-step desc
 ## Usage
 
  
-    ![alt text](assets/images/11-express-homework-demo-01.png)
-    ![alt-text](assets/images/11-express-homework-demo-02.png)
+  (assets/images/11-express-homework-demo-01.png)
+  (assets/images/11-express-homework-demo-02.png)
  
 
 ## Credits
