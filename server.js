@@ -11,7 +11,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 // STATIC MIDDLEWARE
-app.use(express.static("./public"));
+app.use(express.static("./Public"));
 
 
 //GET API db.json
@@ -40,11 +40,11 @@ app.delete("/api/notes/:id", (req, res) => {
 //HTML calls
 //calls home page
 app.get("/", function (req, res) {
-    res.sendFile(path.join(__dirname, "./public/index.html"));
+    res.sendFile(path.join(__dirname, "./Public/index.html"));
 });
 //call for notes.html
 app.get("/notes", function (req, res) {
-    res.sendFile(path.join(__dirname, "./public/notes.html"));
+    res.sendFile(path.join(__dirname, "./Public/notes.html"));
 });
 
 //Start listen
